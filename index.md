@@ -25,3 +25,7 @@ Drugi primjer koda:
 ``` javascript
 var myVar = "Hello, world!";
 ```
+Idemo probat napravit task list. Sve me ovo još čeka:
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world

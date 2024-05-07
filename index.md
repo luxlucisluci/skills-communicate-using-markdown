@@ -15,3 +15,13 @@ Sada ćemo dodati i sliku, let's uns sehen:
 
 
 Izgleda prekul!!
+
+Idemo pokušati dodati kod:
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+Drugi primjer koda:
+``` javascript
+var myVar = "Hello, world!";
+```
